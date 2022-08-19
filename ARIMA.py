@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 25 16:48:15 2019
 
-@author: nageshsinghchauhan
-"""
 
 import os
 import warnings
